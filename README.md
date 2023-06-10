@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdurraafay19@gmail.com**
 
-- ⚡ Fun fact : **I consider myself as a light moody person with a strong urge to help and motivate them in their lives.**
+- ⚡ Fun fact : **I consider myself as a light moody person with a strong urge to help and motivate my peers and community members in their lives.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
