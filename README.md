@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Muhammad Abdur Raafay</h1>
-<h3 align="center">A passionate learner with strong background in Cyber e</h3>
+<h3 align="center">A passionate learner with strong background in Cyber Security.</h3>
 
 - Check my TryHackMe profile [https://tryhackme.com/r/p/m.abdur.raafay](https://tryhackme.com/r/p/m.abdur.raafay)
 
